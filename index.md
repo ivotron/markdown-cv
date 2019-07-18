@@ -9,12 +9,6 @@ title: Ivo Jimenez CV
 <img src="https://www.soe.ucsc.edu/sites/default/files/news/1643781782.jpg"/> 
 </div>
 
-<!--
-<div id="imagen">
-<img src="https://www.soe.ucsc.edu/sites/default/files/news/1643781782.jpg" style="position: absolute; padding-left: 150px; float: left; width: 200px;"/> 
-</div>
--->
-
 <div id="webaddress">
 <a href="ivo@cs.ucsc.edu">ivo@cs.ucsc.edu</a>
 | <a href="http://ivotron.me"> Página Personal</a>
@@ -263,7 +257,7 @@ Database query profiler, MG Castellanos, **I Jimenez**, US Patent
 Desensitizing database information, MG Castellanos, B Zhang, U Dayal, 
 **I Jimenez**, US Patent #7797341
 
-## Servicio en Comunidades Académica
+## Servicio en Comunidades Académicas
 
 `2019`
 
@@ -291,3 +285,10 @@ Fellowship](https://www.soe.ucsc.edu/news/2018/02/13/computer-science-grad-stude
 [Beca 
 Doctoral](https://ucmexus.ucr.edu/results/results_doctoral_fellow_prog.html), 
 *UCMEXUS-CONACYT*, Mexico/USA
+
+## Habilidades Técnicas
+
+  * Lenguajes: C, C++, Python, Go, Java, Lua, Javascript.
+  * Ciencia de datos: Numpy, SciPy, Scikit-Learn, Keras, Dask.
+  * DevOps: Bash, Jenkins, Travis, Github Actions, GCP, AWS.
+  * Administración de proyectos: Atlassian, Asana, Basecamp.
