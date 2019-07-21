@@ -11,137 +11,132 @@ title: Ivo Jimenez CV
 
 <div id="webaddress">
 <a href="ivo@cs.ucsc.edu">ivo@cs.ucsc.edu</a>
-| <a href="http://ivotron.me"> Página Personal</a>
+| <a href="http://ivotron.me"> homepage</a>
 </div>
 
 ## ` `
 
-Soy investigador adjunto en el departamento de [ciencias de la 
-computación](https://cse.ucsc.edu) en la [Universidad de California, 
-Santa Cruz (UCSC)](https://ucsc.edu). Actualmente dirijo el proyecto 
-[Popper](https://falsifiable.us), el cual tiene como objetivo proveer 
-de una plataforma para la implementación, verificación y mantenimiento 
-de exploraciones científicas en las áreas de ciencia computacional y 
-ciencia de datos. Este proyecto ha sido seleccionado como parte del 
-programa de incubadoras de [UCSC CROSS](https://cross.ucsc.edu) para 
-el periodo 2019-2021.
 
-Mi interés académico se encuentra en la intersección de sistemas 
-distribuidos, inteligencia artificial e ingeniería de software. Me 
-apasiona la filosofía de la ciencia, y mi meta profesional es 
-contribuir a la resolución de algunos de los grandes problemas que 
-enfrentamos actualmente en cuanto a reproducibilidad en ciencias 
-computacionales y de datos.
+I am an Incubator Fellow at the [UC Santa Cruz](https://ucsc.edu) 
+[Center for Research on Open Source Software](https://cross.ucsc.edu). 
+I successfully defended my PhD thesis in June 2019, advised by 
+Professor [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/).
 
-## Intereses Académicos
+```
 
-  * Sistemas distribuidos de manejo y administración de datos.
-  * Metodologías de producción de software.
-  * Inteligencia artificial y ciencia de datos.
-  * Reproducibilidad en ciencia computacional y ciencia de datos.
 
-## Educación
+
+
+```
+
+## Academic Interests
+
+  * Distributed storage and data management systems.
+  * Software production methodologies.
+  * Data science and artificial intelligence.
+  * Reproducibility in data and computational science.
+
+## Education
 
 `2013 - 2019`
-**Universidad de California, Santa Cruz**
+**University of California, Santa Cruz**
 
-  * Doctorado en Ciencias de la Computación
+  * PhD, Computer Science
 
 `2010 - 2013`
-**Universidad de California, Santa Cruz**
+**University of California, Santa Cruz**
 
-  * Maestría en Ciencias de la Computación
+  * MS, Computer Science
 
 `2001 - 2006`
-**Universidad de Sonora.**
+**University of Sonora, Mexico**
 
-  * Licenciatura en Ciencias de la Computación
+  * B.Sc., Computer Science
 
 ## Experiencia Profesional
 
-`2019 - hoy`
-**Universidad de California, Santa Cruz**
+`2019 - current`
+**University of California, Santa Cruz**
 
-  * Investigador Adjunto
   * CROSS Incubator Fellow
 
 `2013 - 2019`
-**Universidad de California, Santa Cruz**
+**University of California, Santa Cruz**
 
-  * Asistente de Investigación
+  * Graduate Student Researcher
   * CROSS Research Fellow
 
-`Verano 2018`
+`Summer 2018`
 [**Los Alamos National Laboratory**](https://lanl.gov)
 
-  * Practicante de verano, [Data Science at Scale 
+  * Summer research intern, [Data Science at Scale 
     Group](https://datascience.dsscale.org).
 
 `2016 - 2017`
 [**TidalScale, Inc.**](https://www.tidalscale.com)
 
-  * Ingeniero de software (DevOps).
+  * Software engineer (DevOps).
 
-`Verano 2015`
+`Summer 2015`
 [**RedHat, Inc.**](https://redhat.com)
 
-  * Practicante de verano, [Ceph Team](https://ceph.com).
+  * Summer research intern, [Ceph Team](https://ceph.com).
 
-`Verano 2014`
+`Summer 2014`
 [**Lawrence Livermore National Laboratory**](https://llnl.gov)
 
-  * Practicante de verano, [Scalability 
+  * Summer research intern, [Scalability 
     Team](https://computation.llnl.gov/).
 
-`Verano 2013`
+`Summer 2013`
 [**Intel Corporation**](https://intel.com)
 
-  * Practicante de verano, FastForward I/O Project.
+  * Summer research intern, FastForward I/O Project.
 
-`Verano 2012`
+`Summer 2012`
 [**Aster Data Systems (Teradata)**](https://teradata.com)
 
-  * Practicante de verano, Query Optimizer Team.
+  * Summer research intern, Query Optimizer Team.
 
 `2006 - 2010`
 [**Hewlett Packard Corporation (HPE)**](https://hpe.com)
 
-  * Investigador Asociado, Database Research Group, HP Labs.
+  * Research Associate, Database Research Group, HP Labs.
 
-## Docencia
+## Teaching
 
 `2010 - 2019`
-**Universidad de California, Santa Cruz**
+**University of California, Santa Cruz**
 
-  * Asistente de asignatura: Introducción a la Programación, Sistemas 
-    Distribuidos, Sistemas Operativos y Sistemas de Archivos.
-  * Profesor invitado: Introducción al Open Source Software, 
-    Introducción a la Ciencia Abierta.
+  * Teaching Assistant: Storage Systems, Foundations of Social 
+    Networks.
+  * Invited lecturer: Introduction to Open Source Software, 
+    Introduction to Open Science.
 
-`2018 - hoy`
+`2018 - today`
 [**Google Summer of Code**](https://summerofcode.withgoogle.com)
 
 Mentor
 
-`2017 - hoy`
+`2017 - today`
 [**Mozilla Open 
 Leadership**](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
 
 Mentor
 
-`2015 - hoy`
+`2015 - today`
 
 [**CROSS Research Summer 
 Experience**](https://cross.ucsc.edu/programs/index.html)
 
 Mentor
 
-## Publicaciones
+## Publications
 
-Para ver la lista completa, de click 
-[aquí](https://scholar.google.com/citations?user=_f4sYhoAAAAJ).
+For a complete list, please visit 
+<https://scholar.google.com/citations?user=_f4sYhoAAAAJ>
 
-### Artículos
+### Peer-reviewed Articles
 
 `2018`
 
@@ -247,7 +242,7 @@ L. Data desensitization of customer data for use in optimizer
 performance experiments. In 2010 IEEE 26th International Conference 
 on Data Engineering (ICDE 2010) 2010 Mar 1 (pp. 1081-1092). IEEE.
 
-### Patentes
+### Patents
 
 `2012`
 Database query profiler, MG Castellanos, **I Jimenez**, US Patent 
@@ -257,11 +252,11 @@ Database query profiler, MG Castellanos, **I Jimenez**, US Patent
 Desensitizing database information, MG Castellanos, B Zhang, U Dayal, 
 **I Jimenez**, US Patent #7797341
 
-## Servicio en Comunidades Académicas
+## Academic Service
 
 `2019`
 
-  * Miembro de Comité del Programa Técnico 
+  * Reproducibility Committee PC member, 
     [SC'19](https://sc19.supercomputing.org/planning-committee/).
   * Reproducibility chair 
     [SSDBM'19](https://uccross.github.io/ssdbm2019/).
@@ -274,19 +269,19 @@ Desensitizing database information, MG Castellanos, B Zhang, U Dayal,
     [PDSW'18](http://www.pdsw.org/pdsw-discs18/index.shtml).
   * General chair [P-RECS'18](https://p-recs.github.io/2018/).
 
-## Distinciones
+## Distinctions
 
 `2018`
 [Better Scientific Software 
 Fellowship](https://www.soe.ucsc.edu/news/2018/02/13/computer-science-grad-student-wins-better-scientific-software-fellowship), 
-*Departamento de Energía* (DOE), USA
+*Department of Energy* (DOE), USA
 
 `2010`
-[Beca 
-Doctoral](https://ucmexus.ucr.edu/results/results_doctoral_fellow_prog.html), 
+[Doctoral 
+Scholarship](https://ucmexus.ucr.edu/results/results_doctoral_fellow_prog.html), 
 *UCMEXUS-CONACYT*, Mexico/USA
 
-## Habilidades Técnicas
+## Technical Skills
 
   * Lenguajes: C, C++, Python, Go, Java, Lua, Javascript.
   * Ciencia de datos: Numpy, SciPy, Scikit-Learn, Keras, Dask.
