@@ -17,17 +17,27 @@ title: Ivo Jimenez CV
 ## ` `
 
 
-I am an Incubator Fellow at the [UC Santa Cruz](https://ucsc.edu) 
-[Center for Research on Open Source Software](https://cross.ucsc.edu). 
-I successfully defended my PhD thesis in June 2019, advised by 
-Professor [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/).
+I am Research Scientist at the [UC Santa Cruz][ucsc] [Computer Science 
+and Engineering Department][bsoe]; Incubator Fellow at the [Center for 
+Research on Open Source Software][cross]; and Adjunct Professor at the 
+[University of Sonora][uson] [Computer Science Department][csuson]. 
+Currently, I am the Project Lead of the [Popper][popper] and [Black 
+Swan][bs] projects. I successfully defended my PhD thesis in June 
+2019, advised by Professor [Carlos Maltzahn][carlos].
 
 ```
 
 
-
-
 ```
+
+[ucsc]: https://ucsc.edu
+[bsoe]: https://soe.ucsc.edu
+[cross]: https://cross.ucsc.edu
+[uson]: https://www.unison.mx/
+[csuson]: http://cc.uson.mx/
+[popper]: https://github.com/systemslab/popper
+[bs]: https://cross.ucsc.edu/projects/
+[carlos]: https://users.soe.ucsc.edu/~carlosm/
 
 ## Academic Interests
 
@@ -53,11 +63,12 @@ Professor [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/).
 
   * B.Sc., Computer Science
 
-## Experiencia Profesional
+## Professional Experience
 
 `2019 - current`
 **University of California, Santa Cruz**
 
+  * Research Scientist
   * CROSS Incubator Fellow
 
 `2013 - 2019`
@@ -119,15 +130,13 @@ Professor [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm/).
 Mentor
 
 `2017 - today`
-[**Mozilla Open 
-Leadership**](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
+[**Mozilla Open Leadership**](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
 
 Mentor
 
 `2015 - today`
 
-[**CROSS Research Summer 
-Experience**](https://cross.ucsc.edu/programs/index.html)
+[**CROSS Research Experience**](https://cross.ucsc.edu/programs/index.html)
 
 Mentor
 
@@ -283,7 +292,7 @@ Scholarship](https://ucmexus.ucr.edu/results/results_doctoral_fellow_prog.html),
 
 ## Technical Skills
 
-  * Lenguajes: C, C++, Python, Go, Java, Lua, Javascript.
-  * Ciencia de datos: Numpy, SciPy, Scikit-Learn, Keras, Dask.
+  * Programming Languages: C, C++, Python, Go, Java, Lua, Javascript.
+  * Data Science: Numpy, SciPy, Scikit-Learn, Keras, Dask.
   * DevOps: Bash, Jenkins, Travis, Github Actions, GCP, AWS.
-  * Administración de proyectos: Atlassian, Asana, Basecamp.
+  * Project Management: Atlassian, Asana, Basecamp.
