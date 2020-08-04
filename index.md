@@ -10,21 +10,22 @@ title: Ivo Jimenez CV
 </div>
 
 <div id="webaddress">
-<a href="ivo@cs.ucsc.edu">ivo@cs.ucsc.edu</a>
+<a href="ivo.jimenez@unison.mx">ivo.jimenez@unison.mx</a>
 | <a href="http://ivotron.me"> Página Personal</a>
 </div>
 
 ## ` `
 
-Soy investigador adjunto en el departamento de [ciencias de la 
-computación](https://cse.ucsc.edu) en la [Universidad de California, 
-Santa Cruz (UCSC)](https://ucsc.edu). Actualmente dirijo el proyecto 
-[Popper](https://falsifiable.us), el cual tiene como objetivo proveer 
-de una plataforma para la implementación, verificación y mantenimiento 
-de exploraciones científicas en las áreas de ciencia computacional y 
-ciencia de datos. Este proyecto ha sido seleccionado como parte del 
-programa de incubadoras de [UCSC CROSS](https://cross.ucsc.edu) para 
-el periodo 2019-2021.
+Soy profesor adjunto en el departamento de matemáticas de la 
+computación en la [Universidad de Sonora](https://www.unison.mx), así 
+como investigador adjunto en la [Universidad de California Santa 
+Cruz](https://ucsc.edu). Actualmente dirijo el proyecto 
+[Popper](https://github.com/getpopper/popper), el cual tiene como 
+objetivo proveer de una plataforma para la implementación, 
+verificación y mantenimiento de exploraciones científicas en las áreas 
+de ciencia computacional y ciencia de datos. Este proyecto ha sido 
+seleccionado como parte del programa de incubadoras de [UCSC 
+CROSS](https://cross.ucsc.edu) para el periodo 2020-2024.
 
 Mi interés académico se encuentra en la intersección de sistemas 
 distribuidos, inteligencia artificial e ingeniería de software. Me 
@@ -59,7 +60,12 @@ computacionales y de datos.
 
 ## Experiencia Profesional
 
-`2019 - hoy`
+`2020 - hoy`
+**Universidad de Sonora, Hermosillo**
+
+  * Profesor Adjunto
+
+`2020 - hoy`
 **Universidad de California, Santa Cruz**
 
   * Investigador Adjunto
