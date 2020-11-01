@@ -142,12 +142,39 @@ Experience**](https://cross.ucsc.edu/programs/index.html)
 
 Mentor
 
+`2018 - hoy`
+[**eLife Sciences**](https://openlifesci.org/ols-2#mentors)
+
+Mentor
+
 ## Publicaciones
 
 Para ver la lista completa, de click 
 [aquí](https://scholar.google.com/citations?user=_f4sYhoAAAAJ).
 
 ### Artículos
+
+`2020`
+
+Chakraborty J, Maltzahn C, and Jimenez I, _Enabling Seamless Execution 
+of Computational and Data Science Workflows on HPC and Cloud with the 
+Popper Container-native Automation Engine_. In 2020 IEEE/ACM 
+International Workshop on Containers and New Orchestration Paradigms 
+for Isolated Environments in HPC (CANOPIE-HPC), 2020 Nov 12 (pp. 
+30-41).
+
+Uta A, Custura A, Duplyakin D, **Jimenez I**, Rellermeyer J, Maltzahn 
+C, Ricci R, Iosup A. _Is big data performance reproducible in modern 
+cloud networks?_. In 17th {USENIX} Symposium on Networked Systems 
+Design and Implementation ({NSDI} 20) 2020 (pp. 513-527).
+
+`2019`
+
+David A, Souppe M, **Jimenez I**, Obraczka K, Mansfield S, Veenstra K, 
+Maltzahn C. _Reproducible computer network experiments: A case study 
+using popper_. In Proceedings of the 2nd International Workshop on 
+Practical Reproducible Evaluation of Computer Systems 2019 Jun 17 (pp. 
+29-34).
 
 `2018`
 
@@ -265,22 +292,61 @@ Desensitizing database information, MG Castellanos, B Zhang, U Dayal,
 
 ## Servicio en Comunidades Académicas
 
+### Sociedades Científicas
+
+`2020 - hoy`
+[**Emerging Interest Group on Reproducibility de la 
+ACM**](https://reproducibility.acm.org)
+
+  * Presidente del Grupo de Trabajo para la Organización de la 
+    Conferencia Principal del EIG.
+
+### Revistas
+
+`2020 - hoy`
+[**Journal of Systems Research 
+(JSys)**](https://escholarship.org/uc/jsys)
+
+  * Miembro del Comité Editorial.
+
+### Congresos
+
+`2021`
+
+  * Vice Presidente del Comité de Reproducibilidad 
+    [SC'21](https://sc20.supercomputing.org/2020/09/03/sc21-calls-for-planning-committee-volunteers/).
+  * Presidente General del Comité Organizador de 
+    [P-RECS'21](https://p-recs.github.io/2021/).
+
+`2020`
+
+  * Miembro del sub-comité de AD/AE (comité de Reproducibilidad)
+    [SC'20](https://sc20.supercomputing.org/planning-committee/).
+  * Co-presidente del Comité de Reproducibilidad de 
+    [PDSW'20](http://www.pdsw.org/index.shtml).
+  * Presidente General del Comité Organizador de 
+    [P-RECS'20](https://p-recs.github.io/2020/).
+
 `2019`
 
-  * Miembro de Comité del Programa Técnico 
+  * Miembro del Comité del Programa Técnico 
     [SC'19](https://sc19.supercomputing.org/planning-committee/).
-  * Reproducibility chair 
-    [SSDBM'19](https://uccross.github.io/ssdbm2019/).
-  * Reproducibility co-chair 
+  * Co-presidente del Comité de Reproducibilidad de 
     [PDSW'19](http://www.pdsw.org/pdsw-discs18/index.shtml).
-  * General chair [P-RECS'19](https://p-recs.github.io/2019/).
+  * Presidente General del Comité Organizador de 
+    [P-RECS'19](https://p-recs.github.io/2019/).
 
 `2018`
   * Reproducibility co-chair 
     [PDSW'18](http://www.pdsw.org/pdsw-discs18/index.shtml).
-  * General chair [P-RECS'18](https://p-recs.github.io/2018/).
+  * Presidente General del Comité Organizador de 
+    [P-RECS'18](https://p-recs.github.io/2018/).
 
 ## Distinciones
+
+`2020`
+[CROSS Incubator Fellowship](https://cross.ucsc.edu/projects/index.html)
+*Center for Research on Open Source Software (CROSS)*, USA
 
 `2018`
 [Better Scientific Software 
