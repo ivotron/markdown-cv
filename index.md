@@ -10,7 +10,7 @@ title: Ivo Jimenez CV
 </div>
 
 <div id="webaddress">
-<a href="ivo@cs.ucsc.edu">ivo@cs.ucsc.edu</a>
+<a href="ivotron@ucsc.edu">ivotron@ucsc.edu</a>
 | <a href="http://ivotron.me"> homepage</a>
 </div>
 
