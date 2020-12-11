@@ -71,6 +71,11 @@ Swan][bs] projects. I successfully defended my PhD thesis in June
   * Research Scientist
   * CROSS Incubator Fellow
 
+`2020 - current`
+**Universidad de Sonora, Mexico**
+
+  * Adjunct Professor
+
 `2013 - 2019`
 **University of California, Santa Cruz**
 
@@ -124,13 +129,14 @@ Swan][bs] projects. I successfully defended my PhD thesis in June
   * Invited lecturer: Introduction to Open Source Software, 
     Introduction to Open Science.
 
+
 `2018 - today`
-[**Google Summer of Code**](https://summerofcode.withgoogle.com)
+[**eLife Sciences**](https://openlifesci.org/ols-2#mentors)
 
 Mentor
 
-`2017 - today`
-[**Mozilla Open Leadership**](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
+`2018 - today`
+[**Google Summer of Code**](https://summerofcode.withgoogle.com)
 
 Mentor
 
@@ -140,12 +146,39 @@ Mentor
 
 Mentor
 
+`2017 - 2019`
+[**Mozilla Open Leadership**](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/)
+
+Mentor
+
 ## Publications
 
 For a complete list, please visit 
 <https://scholar.google.com/citations?user=_f4sYhoAAAAJ>
 
 ### Peer-reviewed Articles
+
+`2020`
+
+Chakraborty J, Maltzahn C, and **Jimenez I**, _Enabling Seamless 
+Execution of Computational and Data Science Workflows on HPC and Cloud 
+with the Popper Container-native Automation Engine_. In 2020 IEEE/ACM 
+International Workshop on Containers and New Orchestration Paradigms 
+for Isolated Environments in HPC (CANOPIE-HPC), 2020 Nov 12 (pp. 
+30-41).
+
+Uta A, Custura A, Duplyakin D, **Jimenez I**, Rellermeyer J, Maltzahn 
+C, Ricci R, Iosup A. _Is big data performance reproducible in modern 
+cloud networks?_. In 17th {USENIX} Symposium on Networked Systems 
+Design and Implementation ({NSDI} 20) 2020 (pp. 513-527).
+
+`2019`
+
+David A, Souppe M, **Jimenez I**, Obraczka K, Mansfield S, Veenstra K, 
+Maltzahn C. _Reproducible computer network experiments: A case study 
+using popper_. In Proceedings of the 2nd International Workshop on 
+Practical Reproducible Evaluation of Computer Systems 2019 Jun 17 (pp. 
+29-34).
 
 `2018`
 
@@ -263,8 +296,38 @@ Desensitizing database information, MG Castellanos, B Zhang, U Dayal,
 
 ## Academic Service
 
-`2019`
+### Societies
 
+`2020 - today`
+[**ACM Emerging Interest Group on Reproducibility**](https://reproducibility.acm.org)
+
+  * Chair of Conference Working Group.
+
+### Journals
+
+`2020 - today`
+[**Journal of Systems Research (JSys)**](https://escholarship.org/uc/jsys)
+
+  * Editorial Board Member.
+  * Data Science and Reproducibility Area Chair.
+
+### Conferences
+
+`2021`
+
+  * Reproducibility Vice-chair
+    [SC'21](https://sc21.supercomputing.org/submit/reproducibility-initiative/).
+  * General Co-chair [P-RECS'21](https://p-recs.github.io/2021/).
+
+`2020`
+
+  * Member of AD/AE sub-committee (Reproducibility Committee)
+    [SC'20](https://sc20.supercomputing.org/planning-committee/).
+  * Reproducibility Co-chair 
+    [PDSW'20](http://www.pdsw.org/index.shtml).
+  * General Co-chair [P-RECS'20](https://p-recs.github.io/2020/).
+
+`2019`
   * Reproducibility Committee PC member, 
     [SC'19](https://sc19.supercomputing.org/planning-committee/).
   * Reproducibility chair 
@@ -280,6 +343,10 @@ Desensitizing database information, MG Castellanos, B Zhang, U Dayal,
 
 ## Distinctions
 
+`2019`
+[CROSS Incubator Fellowship](https://cross.ucsc.edu/projects/index.html)
+*Center for Research on Open Source Software (CROSS)*, USA
+
 `2018`
 [Better Scientific Software 
 Fellowship](https://www.soe.ucsc.edu/news/2018/02/13/computer-science-grad-student-wins-better-scientific-software-fellowship), 
@@ -290,9 +357,11 @@ Fellowship](https://www.soe.ucsc.edu/news/2018/02/13/computer-science-grad-stude
 Scholarship](https://ucmexus.ucr.edu/results/results_doctoral_fellow_prog.html), 
 *UCMEXUS-CONACYT*, Mexico/USA
 
+<!--
 ## Technical Skills
 
   * Programming Languages: C, C++, Python, Go, Java, Lua, Javascript.
   * Data Science: Numpy, SciPy, Scikit-Learn, Keras, Dask.
   * DevOps: Bash, Jenkins, Travis, Github Actions, GCP, AWS.
   * Project Management: Atlassian, Asana, Basecamp.
+-->
